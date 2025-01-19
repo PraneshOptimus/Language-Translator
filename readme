@@ -1,1 +1,28 @@
 Simple but Very useful for who those doesnt know the meaning of the words or a sentences
+
+
+
+used Tools and Libraries
+
+      -> tkinter   #pip install tkinter
+      -> GoogleTrans      #pip install googletrans==3.1.0a0
+
+Step one :-
+      Download and install the required Libraries
+
+step two:-
+      initiale the variables
+
+step three :-
+      listing the languages
+
+step four:-
+      insert the translated Text into Translated box
+
+step five :-
+      completed !
+
+
+
+
+                                                                                                                      HAPPY CODING !!
